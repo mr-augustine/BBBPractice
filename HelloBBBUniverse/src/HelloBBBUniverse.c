@@ -12,6 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hello Universe!"); /* prints Hello Universe! */
-	return EXIT_SUCCESS;
+	printf("Hello Universe!"); /* prints Hello Universe! */
+
+	return 0;
 }
